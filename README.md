@@ -1,1 +1,0 @@
-This is the repo to store the develop version of ffxiv-pastry-fish-list static web app files.
