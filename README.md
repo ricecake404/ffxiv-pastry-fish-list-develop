@@ -1,1 +1,0 @@
-This is the static web app files of `ffxiv-pastry-fish-list`.
